@@ -4,7 +4,7 @@
 ### Valtify is a web-based application designed to provide hands-on learning and understanding of various cryptographic algorithms. This project focuses on the implementation and working of key cryptographic algorithms to demonstrate their functionality and use in securing communication.
 
 
-## Authors
+## Author
 
 - Aditya Khammait [@RealCifer](https://github.com/RealCifer)
 
