@@ -1,0 +1,81 @@
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.encryption,
+.decryption {
+    width: 45%;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+label {
+    font-size: 14px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+textarea,
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.ui-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.ui-btn:hover {
+    background-color: #0056b3;
+}
+
+.result-box {
+    margin-top: 20px;
+}
+
+.result-box label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.result-box textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
