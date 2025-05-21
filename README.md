@@ -9,7 +9,7 @@
 - Aditya Khammait [@RealCifer](https://github.com/RealCifer)
 
 
-# This is CryptVault!
+# This is Valtify!
 The primary goal of Valtify was to foster a deeper understanding of how cryptographic algorithms work. The project was not to serve as a production-ready secure application but as an educational tool to demonstrate encryption, decryption, and hashing processes. But as we started the development, we took on a production ready application energy.
 
 And this is the end result.
